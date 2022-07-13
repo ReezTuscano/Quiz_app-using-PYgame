@@ -3,6 +3,10 @@ Made Quiz app by implementing concepts of PYame, OOP, Exception Handeling and an
 My first code based Project.
 It took me around 5 days to build this.
 
+![image](https://user-images.githubusercontent.com/100014146/178732194-cd0a7745-7617-4139-a0eb-8da04c8762d8.png)
+
+
+
 Use the screen_setup.py file to setup your pygame environmnt screen. It has all the necessary classes methods thar are required to make this game.
 
 Here, i have tried to implement the knowledge that i had learnt a day before. That is object oriented programming. i had tried to implement classes and object to make this project a success. the methords like getters and setters are also used to make this project.
@@ -39,7 +43,14 @@ To fix this we use Exception handelling concepts in java. so basically we use tr
 
 
 
+Finally to make this program super intersting and convinient, i had created an .exe file of the game using Pyinstaller module.
+here the catch is when we try to create single .exe file of the game, it takes time both for creating .exe file and and ruunning it. thus to fix this we create a pre-extracted folder out of thegame  and archieve it using inno game setup creator to make a sigle .exe file that we use to install ay other game.
 
+command to create pyinstaller game dependency files
+    Type in the Cmd at the locationof the game files
+    pyinstaller -w starting_file_name.py
+    
+here we use the files present in the dist folder of the code
 
 
 
