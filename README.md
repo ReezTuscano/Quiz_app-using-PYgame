@@ -5,7 +5,6 @@ It took me around 5 days to build this.
 
 
 ![Screen Shot 07-13-22 at 06 02 PM](https://user-images.githubusercontent.com/100014146/178735622-e78aa352-904b-4583-9a8e-4fcb92b49e27.jpg)
-
 ![Screen Shot 07-13-22 at 06 02 PM 002](https://user-images.githubusercontent.com/100014146/178735701-8687081a-7320-4b4e-8941-0af5dec08e94.jpg)
 
 
